@@ -4,3 +4,12 @@ I created the 'Shop' in C++, which enable users to manage the inventory of a sho
  The application manages different products and provides various functionalities such as adding, updating, and deleting products. Please refer to the user interface screenshots below.
 
 Take a look at the UI :
+
+
+![main](https://github.com/Codrut112/Shop/assets/118080484/d9a374b5-8301-4b7c-888c-56ce35c01b4d)
+
+
+![cosCrud](https://github.com/Codrut112/Shop/assets/118080484/41cf9872-1381-47ca-9310-ac3eb99d5204)
+
+
+![images](https://github.com/Codrut112/Shop/assets/118080484/eda88147-ad5f-4b43-b287-2d2867c2c529)
