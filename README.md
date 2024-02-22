@@ -10,13 +10,13 @@ We can filter or sort our products by different properties(name,price,producer):
 ![main](https://github.com/Codrut112/Shop/assets/118080484/d9a374b5-8301-4b7c-888c-56ce35c01b4d)
 
 
-This app contains an basket with items, you can even a random number of items.
+This app contains an basket with items, you can even add random products in the basket.
 
 
 ![cosCrud](https://github.com/Codrut112/Shop/assets/118080484/41cf9872-1381-47ca-9310-ac3eb99d5204)
 
 
-Also it generates images at different positions for item you add in the basket.
+Also it generates images at different positions for every item you add in the basket.
 
 
 ![images](https://github.com/Codrut112/Shop/assets/118080484/eda88147-ad5f-4b43-b287-2d2867c2c529)
